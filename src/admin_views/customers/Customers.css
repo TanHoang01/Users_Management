@@ -1,0 +1,11 @@
+@media only screen and (max-width: 960px) {
+    #func_bar{
+        display: block !important;
+    }
+}
+
+@media only screen and (max-width: 805px) {
+    #func_bar_right {
+        display: block !important;
+    }
+}
